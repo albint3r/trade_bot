@@ -2,3 +2,6 @@
 binan/__pycache__*
 /env
 .idea/
+__pycache__/
+.ipynb_checkpoints/
+
